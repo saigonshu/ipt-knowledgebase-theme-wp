@@ -1,8 +1,8 @@
 === WP Knowledge Base Theme ===
 Contributors: swashata, iPanelThemes
 Tags: two-columns, flexible-width, custom-header, custom-menu, featured-images, gray, light
-Requires at least: 3.5
-Tested up to: 3.7
+Requires wp at least: 3.5
+Tested wp up to: 3.7
 Stable tag: 1.5.1
 
 A responsive bootstrap based theme for maintaining multi product knowledge base on your WordPress site.
